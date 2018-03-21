@@ -12,6 +12,9 @@ namespace ConsoleApp1
         {
             if (true)
                 Console.WriteLine("Helloworld");
+
+            if(false)
+                Console.WriteLine("Bang!!!");
         }
     }
 }
