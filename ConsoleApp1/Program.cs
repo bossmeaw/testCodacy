@@ -15,6 +15,9 @@ namespace ConsoleApp1
 
             if(false)
                 Console.WriteLine("Bang!!!");
+
+            if( 1 == 1 )
+                Console.WriteLine("how?");
         }
     }
 }
